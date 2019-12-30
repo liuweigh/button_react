@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19864a9a-224d-42c3-bb69-8d22905aaac5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\workspace_idea\shenruan_reactjs\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1VgdSbJavertNTxCJZJzqKlCUJH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\liuwe\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19864a9a-224d-42c3-bb69-8d22905aaac5" name="Default Changelist" comment="" />
+      <created>1577678672266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577678672266</updated>
+      <workItem from="1577678674051" duration="18673000" />
+      <workItem from="1577710491977" duration="1024000" />
+    </task>
+    <task id="LOCAL-00001" summary="按钮 20:03">
+      <created>1577707727819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577707727819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="按钮 20:03">
+      <created>1577711388192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577711388192</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/node_modules/umi-utils/src/index.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="按钮 12:30" />
+    <MESSAGE value="按钮 20:03" />
+    <option name="LAST_COMMIT_MESSAGE" value="按钮 20:03" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="CommitChangelistDialog2" timestamp="1577711137743">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="249" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1577711137743" />
+    <state x="421" y="89" key="FileChooserDialogImpl" timestamp="1577707238294">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="89" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1577707238294" />
+    <state x="221" y="91" key="IDE.errors.dialog" timestamp="1577706791854">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="221" y="91" key="IDE.errors.dialog/0.0.1280.689@0.0.1280.689" timestamp="1577706791854" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1577692093562">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1577692093562" />
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2" timestamp="1577707768622">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="69" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1577707768622" />
+    <state x="337" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1577710501290">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="337" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1577710501290" />
+    <state x="410" y="82" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1577710565745">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="410" y="82" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.689@0.0.1280.689" timestamp="1577710565745" />
+    <state x="0" y="144" key="new project wizard" timestamp="1577680476297">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="144" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1577680476297" />
+    <state x="427" y="251" key="svn.passwordDialog" timestamp="1577707182272">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="427" y="251" key="svn.passwordDialog/0.0.1280.689@0.0.1280.689" timestamp="1577707182272" />
+    <state x="471" y="139" key="svn.repositoryBrowser" timestamp="1577707213332">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="471" y="139" key="svn.repositoryBrowser/0.0.1280.689@0.0.1280.689" timestamp="1577707213332" />
+    <state x="444" y="120" key="svn4idea.import.options" timestamp="1577707066276">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="444" y="120" key="svn4idea.import.options/0.0.1280.689@0.0.1280.689" timestamp="1577707066276" />
+  </component>
+</project>
