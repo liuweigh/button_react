@@ -1,3 +1,4 @@
 # button_react
 按钮
-[!image]2019-12-30_212137.png
+![Image text](src/main/webapp/images/banner_3.jpg)
+![Image text](2019-12-30_212137.png)
